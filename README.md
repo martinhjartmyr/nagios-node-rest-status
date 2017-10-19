@@ -25,7 +25,7 @@ Note that the source volume folder path must be set to where the status.dat file
 ```
 http://server-ip:3000/stats
 ```
-Shows the number of hosts and services (including failing)
+Displays the number of hosts and services (including failing)
 
 ### Hosts
 ```
