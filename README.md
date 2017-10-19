@@ -2,7 +2,7 @@
 
 ## Running
 
-### Bulding and running manually
+### Building and running manually
 ```
 git clone https://github.com/martinhjartmyr/nagios-node-rest-status.git
 cd nagios-node-rest-status
